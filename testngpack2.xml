@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="methods" thread-count="3">
+	<test name="Test">
+		<classes>
+			<class name="selpractice.expedia2234" />
+			<class name="selpractice.expedia2235" />
+			<class name="selpractice.gmail_new" />
+			<class name="selpractice.apple2" />
+			<class name="selpractice.gmail" />
+			<class name="selpractice.applenew2" />
+			<class name="selpractice.google_link" />
+			<class name="selpractice.versionone2" />
+			<class name="selpractice.google_link2" />
+			<class name="selpractice.googleuuuu2" />
+			<class name="selpractice.gmail2" />
+			<class name="selpractice.apple" />
+			<class name="selpractice.googleuuuu" />
+			<class name="selpractice.google2" />
+			<class name="selpractice.apple2346" />
+			<class name="selpractice.expedia" />
+			<class name="selpractice.apple2345" />
+			<class name="selpractice.google" />
+			<class name="selpractice.expedia2" />
+			<class name="selpractice.applenew" />
+			<class name="selpractice.gmail_new2" />
+			<class name="selpractice.versionone" />
+		</classes>
+	</test><!-- Test -->
+</suite><!-- Suite -->

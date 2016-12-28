@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="methods">
+  <test name="MyWebTest(failed)" parallel="methods">
+    <classes>
+      <class name="selpractice.google">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="f"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- selpractice.google -->
+      <class name="selpractice.versionone">
+        <methods>
+          <include name="f"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- selpractice.versionone -->
+      <class name="selpractice.gmail">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- selpractice.gmail -->
+      <class name="selpractice.expedia">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- selpractice.expedia -->
+      <class name="selpractice.apple">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- selpractice.apple -->
+    </classes>
+  </test> <!-- MyWebTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

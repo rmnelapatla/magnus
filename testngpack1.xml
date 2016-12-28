@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="methods" thread-count="3">
+	<test name="Test">
+		<classes>
+			<class name="javapractice.applenew" />
+			<class name="javapractice.applenew2" />
+			<class name="javapractice.gmail_new" />
+			<class name="javapractice.gmail_new2" />
+			<class name="javapractice.apple2346" />
+			<class name="javapractice.apple2345" />
+			<class name="javapractice.google_link2" />
+			<class name="javapractice.expedia2235" />
+			<class name="javapractice.expedia2234" />
+			<class name="javapractice.google_link" />
+			<class name="javapractice.gmail" />
+			<class name="javapractice.gmail2" />
+			<class name="javapractice.google" />
+			<class name="javapractice.expedia2" />
+			<class name="javapractice.expedia" />
+		</classes>
+	</test><!-- Test -->
+</suite><!-- Suite -->

@@ -1,0 +1,264 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>37/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Dec 27 17:24:12 PST 2016</td>
+</tr>
+<tr><td>Total time:</td><td>89 seconds (89492 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='selpractice.apple2.f()'><b>f</b><br>Test class: selpractice.apple2</td>
+<td></td>
+<td>11</td>
+<td>selpractice.apple2@464bee09</td></tr>
+<tr>
+<td title='selpractice.gmail.f()'><b>f</b><br>Test class: selpractice.gmail</td>
+<td></td>
+<td>11</td>
+<td>selpractice.gmail@13deb50e</td></tr>
+<tr>
+<td title='javapractice.gmail_new.f()'><b>f</b><br>Test class: javapractice.gmail_new</td>
+<td></td>
+<td>12</td>
+<td>javapractice.gmail_new@f6c48ac</td></tr>
+<tr>
+<td title='selpractice.gmail_new.f()'><b>f</b><br>Test class: selpractice.gmail_new</td>
+<td></td>
+<td>12</td>
+<td>selpractice.gmail_new@6eebc39e</td></tr>
+<tr>
+<td title='javapractice.applenew.f()'><b>f</b><br>Test class: javapractice.applenew</td>
+<td></td>
+<td>13</td>
+<td>javapractice.applenew@4dfa3a9d</td></tr>
+<tr>
+<td title='javapractice.gmail_new2.f()'><b>f</b><br>Test class: javapractice.gmail_new2</td>
+<td></td>
+<td>10</td>
+<td>javapractice.gmail_new2@239963d8</td></tr>
+<tr>
+<td title='selpractice.google2.f()'><b>f</b><br>Test class: selpractice.google2</td>
+<td></td>
+<td>10</td>
+<td>selpractice.google2@31ef45e3</td></tr>
+<tr>
+<td title='javapractice.google_link2.f()'><b>f</b><br>Test class: javapractice.google_link2</td>
+<td></td>
+<td>10</td>
+<td>javapractice.google_link2@57fffcd7</td></tr>
+<tr>
+<td title='selpractice.apple2346.f()'><b>f</b><br>Test class: selpractice.apple2346</td>
+<td></td>
+<td>11</td>
+<td>selpractice.apple2346@598067a5</td></tr>
+<tr>
+<td title='selpractice.googleuuuu2.f()'><b>f</b><br>Test class: selpractice.googleuuuu2</td>
+<td></td>
+<td>12</td>
+<td>selpractice.googleuuuu2@3abbfa04</td></tr>
+<tr>
+<td title='selpractice.apple2345.f()'><b>f</b><br>Test class: selpractice.apple2345</td>
+<td></td>
+<td>12</td>
+<td>selpractice.apple2345@3c0ecd4b</td></tr>
+<tr>
+<td title='javapractice.expedia2234.f()'><b>f</b><br>Test class: javapractice.expedia2234</td>
+<td></td>
+<td>10</td>
+<td>javapractice.expedia2234@553f17c</td></tr>
+<tr>
+<td title='selpractice.expedia2.f()'><b>f</b><br>Test class: selpractice.expedia2</td>
+<td></td>
+<td>10</td>
+<td>selpractice.expedia2@4f7d0008</td></tr>
+<tr>
+<td title='javapractice.expedia2235.f()'><b>f</b><br>Test class: javapractice.expedia2235</td>
+<td></td>
+<td>13</td>
+<td>javapractice.expedia2235@14bf9759</td></tr>
+<tr>
+<td title='selpractice.expedia.f()'><b>f</b><br>Test class: selpractice.expedia</td>
+<td></td>
+<td>13</td>
+<td>selpractice.expedia@5f341870</td></tr>
+<tr>
+<td title='selpractice.versionone.f()'><b>f</b><br>Test class: selpractice.versionone</td>
+<td></td>
+<td>11</td>
+<td>selpractice.versionone@271053e1</td></tr>
+<tr>
+<td title='javapractice.expedia2.f()'><b>f</b><br>Test class: javapractice.expedia2</td>
+<td></td>
+<td>11</td>
+<td>javapractice.expedia2@589838eb</td></tr>
+<tr>
+<td title='selpractice.expedia2234.f()'><b>f</b><br>Test class: selpractice.expedia2234</td>
+<td></td>
+<td>11</td>
+<td>selpractice.expedia2234@6500df86</td></tr>
+<tr>
+<td title='javapractice.expedia.f()'><b>f</b><br>Test class: javapractice.expedia</td>
+<td></td>
+<td>11</td>
+<td>javapractice.expedia@42dafa95</td></tr>
+<tr>
+<td title='selpractice.expedia2235.f()'><b>f</b><br>Test class: selpractice.expedia2235</td>
+<td></td>
+<td>11</td>
+<td>selpractice.expedia2235@402a079c</td></tr>
+<tr>
+<td title='selpractice.applenew2.f()'><b>f</b><br>Test class: selpractice.applenew2</td>
+<td></td>
+<td>10</td>
+<td>selpractice.applenew2@4cf777e8</td></tr>
+<tr>
+<td title='selpractice.google_link.f()'><b>f</b><br>Test class: selpractice.google_link</td>
+<td></td>
+<td>11</td>
+<td>selpractice.google_link@2f686d1f</td></tr>
+<tr>
+<td title='javapractice.applenew2.f()'><b>f</b><br>Test class: javapractice.applenew2</td>
+<td></td>
+<td>13</td>
+<td>javapractice.applenew2@59ec2012</td></tr>
+<tr>
+<td title='selpractice.google_link2.f()'><b>f</b><br>Test class: selpractice.google_link2</td>
+<td></td>
+<td>12</td>
+<td>selpractice.google_link2@3fee9989</td></tr>
+<tr>
+<td title='selpractice.versionone2.f()'><b>f</b><br>Test class: selpractice.versionone2</td>
+<td></td>
+<td>14</td>
+<td>selpractice.versionone2@73ad2d6</td></tr>
+<tr>
+<td title='selpractice.gmail2.f()'><b>f</b><br>Test class: selpractice.gmail2</td>
+<td></td>
+<td>9</td>
+<td>selpractice.gmail2@7085bdee</td></tr>
+<tr>
+<td title='selpractice.apple.f()'><b>f</b><br>Test class: selpractice.apple</td>
+<td></td>
+<td>9</td>
+<td>selpractice.apple@1ce92674</td></tr>
+<tr>
+<td title='selpractice.googleuuuu.f()'><b>f</b><br>Test class: selpractice.googleuuuu</td>
+<td></td>
+<td>9</td>
+<td>selpractice.googleuuuu@6fd02e5</td></tr>
+<tr>
+<td title='javapractice.apple2346.f()'><b>f</b><br>Test class: javapractice.apple2346</td>
+<td></td>
+<td>16</td>
+<td>javapractice.apple2346@5700d6b1</td></tr>
+<tr>
+<td title='javapractice.apple2345.f()'><b>f</b><br>Test class: javapractice.apple2345</td>
+<td></td>
+<td>14</td>
+<td>javapractice.apple2345@5bcab519</td></tr>
+<tr>
+<td title='selpractice.google.f()'><b>f</b><br>Test class: selpractice.google</td>
+<td></td>
+<td>12</td>
+<td>selpractice.google@e45f292</td></tr>
+<tr>
+<td title='javapractice.google_link.f()'><b>f</b><br>Test class: javapractice.google_link</td>
+<td></td>
+<td>12</td>
+<td>javapractice.google_link@5f2108b5</td></tr>
+<tr>
+<td title='javapractice.gmail.f()'><b>f</b><br>Test class: javapractice.gmail</td>
+<td></td>
+<td>10</td>
+<td>javapractice.gmail@31a5c39e</td></tr>
+<tr>
+<td title='javapractice.gmail2.f()'><b>f</b><br>Test class: javapractice.gmail2</td>
+<td></td>
+<td>9</td>
+<td>javapractice.gmail2@3f49dace</td></tr>
+<tr>
+<td title='javapractice.google.f()'><b>f</b><br>Test class: javapractice.google</td>
+<td></td>
+<td>9</td>
+<td>javapractice.google@1e397ed7</td></tr>
+<tr>
+<td title='selpractice.applenew.f()'><b>f</b><br>Test class: selpractice.applenew</td>
+<td></td>
+<td>9</td>
+<td>selpractice.applenew@490ab905</td></tr>
+<tr>
+<td title='selpractice.gmail_new2.f()'><b>f</b><br>Test class: selpractice.gmail_new2</td>
+<td></td>
+<td>9</td>
+<td>selpractice.gmail_new2@56ac3a89</td></tr>
+</table><p>
+</body>
+</html>

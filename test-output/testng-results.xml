@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="37" passed="37">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89492" started-at="2016-12-28T01:24:12Z" finished-at="2016-12-28T01:25:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="89492" started-at="2016-12-28T01:24:12Z" finished-at="2016-12-28T01:25:42Z">
+      <class name="javapractice.apple2346">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.apple2346@5700d6b1]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:12Z" finished-at="2016-12-27T17:25:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.apple2346@5700d6b1]" name="f" duration-ms="16080" started-at="2016-12-27T17:25:12Z" finished-at="2016-12-27T17:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.apple2346@5700d6b1]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:28Z" finished-at="2016-12-27T17:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.apple2346 -->
+      <class name="selpractice.apple2345">
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.apple2345@3c0ecd4b]" name="f" duration-ms="12144" started-at="2016-12-27T17:24:34Z" finished-at="2016-12-27T17:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.apple2345@3c0ecd4b]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:34Z" finished-at="2016-12-27T17:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.apple2345@3c0ecd4b]" name="afterMethod" is-config="true" duration-ms="2" started-at="2016-12-27T17:24:47Z" finished-at="2016-12-27T17:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.apple2345 -->
+      <class name="selpractice.gmail2">
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.gmail2@7085bdee]" name="f" duration-ms="9494" started-at="2016-12-27T17:25:10Z" finished-at="2016-12-27T17:25:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.gmail2@7085bdee]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:10Z" finished-at="2016-12-27T17:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.gmail2@7085bdee]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:25:19Z" finished-at="2016-12-27T17:25:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.gmail2 -->
+      <class name="selpractice.google">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.google@e45f292]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:19Z" finished-at="2016-12-27T17:25:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.google@e45f292]" name="f" duration-ms="12502" started-at="2016-12-27T17:25:19Z" finished-at="2016-12-27T17:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.google@e45f292]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:32Z" finished-at="2016-12-27T17:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.google -->
+      <class name="javapractice.expedia2234">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.expedia2234@553f17c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:37Z" finished-at="2016-12-27T17:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.expedia2234@553f17c]" name="f" duration-ms="10015" started-at="2016-12-27T17:24:37Z" finished-at="2016-12-27T17:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.expedia2234@553f17c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:47Z" finished-at="2016-12-27T17:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.expedia2234 -->
+      <class name="selpractice.google_link2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.google_link2@3fee9989]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:25:00Z" finished-at="2016-12-27T17:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.google_link2@3fee9989]" name="f" duration-ms="12684" started-at="2016-12-27T17:25:00Z" finished-at="2016-12-27T17:25:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.google_link2@3fee9989]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:12Z" finished-at="2016-12-27T17:25:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.google_link2 -->
+      <class name="selpractice.versionone2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.versionone2@73ad2d6]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:25:00Z" finished-at="2016-12-27T17:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.versionone2@73ad2d6]" name="f" duration-ms="14153" started-at="2016-12-27T17:25:00Z" finished-at="2016-12-27T17:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.versionone2@73ad2d6]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:14Z" finished-at="2016-12-27T17:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.versionone2 -->
+      <class name="javapractice.expedia2235">
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.expedia2235@14bf9759]" name="f" duration-ms="13070" started-at="2016-12-27T17:24:35Z" finished-at="2016-12-27T17:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.expedia2235@14bf9759]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:35Z" finished-at="2016-12-27T17:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.expedia2235@14bf9759]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:48Z" finished-at="2016-12-27T17:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.expedia2235 -->
+      <class name="selpractice.apple2346">
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.apple2346@598067a5]" name="f" duration-ms="11361" started-at="2016-12-27T17:24:26Z" finished-at="2016-12-27T17:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.apple2346@598067a5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:26Z" finished-at="2016-12-27T17:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.apple2346@598067a5]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:37Z" finished-at="2016-12-27T17:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.apple2346 -->
+      <class name="javapractice.expedia">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.expedia@42dafa95]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:48Z" finished-at="2016-12-27T17:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.expedia@42dafa95]" name="f" duration-ms="11808" started-at="2016-12-27T17:24:48Z" finished-at="2016-12-27T17:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.expedia@42dafa95]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:00Z" finished-at="2016-12-27T17:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.expedia -->
+      <class name="javapractice.apple2345">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.apple2345@5bcab519]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:14Z" finished-at="2016-12-27T17:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.apple2345@5bcab519]" name="f" duration-ms="14832" started-at="2016-12-27T17:25:14Z" finished-at="2016-12-27T17:25:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.apple2345@5bcab519]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:29Z" finished-at="2016-12-27T17:25:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.apple2345 -->
+      <class name="selpractice.versionone">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.versionone@271053e1]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:47Z" finished-at="2016-12-27T17:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.versionone@271053e1]" name="f" duration-ms="11751" started-at="2016-12-27T17:24:47Z" finished-at="2016-12-27T17:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.versionone@271053e1]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:58Z" finished-at="2016-12-27T17:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.versionone -->
+      <class name="selpractice.applenew2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.applenew2@4cf777e8]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:59Z" finished-at="2016-12-27T17:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.applenew2@4cf777e8]" name="f" duration-ms="10888" started-at="2016-12-27T17:24:59Z" finished-at="2016-12-27T17:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.applenew2@4cf777e8]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:25:10Z" finished-at="2016-12-27T17:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.applenew2 -->
+      <class name="javapractice.gmail_new">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.gmail_new@f6c48ac]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2016-12-27T17:24:12Z" finished-at="2016-12-27T17:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.gmail_new@f6c48ac]" name="f" duration-ms="12083" started-at="2016-12-27T17:24:12Z" finished-at="2016-12-27T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.gmail_new@f6c48ac]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:24Z" finished-at="2016-12-27T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.gmail_new -->
+      <class name="selpractice.apple2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.apple2@464bee09]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2016-12-27T17:24:12Z" finished-at="2016-12-27T17:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.apple2@464bee09]" name="f" duration-ms="11466" started-at="2016-12-27T17:24:12Z" finished-at="2016-12-27T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.apple2@464bee09]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:24Z" finished-at="2016-12-27T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.apple2 -->
+      <class name="javapractice.applenew">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.applenew@4dfa3a9d]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2016-12-27T17:24:12Z" finished-at="2016-12-27T17:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.applenew@4dfa3a9d]" name="f" duration-ms="13359" started-at="2016-12-27T17:24:12Z" finished-at="2016-12-27T17:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.applenew@4dfa3a9d]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:26Z" finished-at="2016-12-27T17:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.applenew -->
+      <class name="javapractice.google">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.google@1e397ed7]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:25:29Z" finished-at="2016-12-27T17:25:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.google@1e397ed7]" name="f" duration-ms="9212" started-at="2016-12-27T17:25:29Z" finished-at="2016-12-27T17:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.google@1e397ed7]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:38Z" finished-at="2016-12-27T17:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.google -->
+      <class name="javapractice.gmail2">
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.gmail2@3f49dace]" name="f" duration-ms="9685" started-at="2016-12-27T17:25:28Z" finished-at="2016-12-27T17:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.gmail2@3f49dace]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:28Z" finished-at="2016-12-27T17:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.gmail2@3f49dace]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:38Z" finished-at="2016-12-27T17:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.gmail2 -->
+      <class name="selpractice.applenew">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.applenew@490ab905]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:32Z" finished-at="2016-12-27T17:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.applenew@490ab905]" name="f" duration-ms="9538" started-at="2016-12-27T17:25:32Z" finished-at="2016-12-27T17:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.applenew@490ab905]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:41Z" finished-at="2016-12-27T17:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.applenew -->
+      <class name="selpractice.apple">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.apple@1ce92674]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:25:10Z" finished-at="2016-12-27T17:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.apple@1ce92674]" name="f" duration-ms="9489" started-at="2016-12-27T17:25:10Z" finished-at="2016-12-27T17:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.apple@1ce92674]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:20Z" finished-at="2016-12-27T17:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.apple -->
+      <class name="selpractice.google_link">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.google_link@2f686d1f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:59Z" finished-at="2016-12-27T17:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.google_link@2f686d1f]" name="f" duration-ms="11036" started-at="2016-12-27T17:24:59Z" finished-at="2016-12-27T17:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.google_link@2f686d1f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:10Z" finished-at="2016-12-27T17:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.google_link -->
+      <class name="javapractice.google_link">
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.google_link@5f2108b5]" name="f" duration-ms="12676" started-at="2016-12-27T17:25:20Z" finished-at="2016-12-27T17:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.google_link@5f2108b5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:20Z" finished-at="2016-12-27T17:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.google_link@5f2108b5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:32Z" finished-at="2016-12-27T17:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.google_link -->
+      <class name="selpractice.expedia2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.expedia2@4f7d0008]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:37Z" finished-at="2016-12-27T17:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.expedia2@4f7d0008]" name="f" duration-ms="10625" started-at="2016-12-27T17:24:37Z" finished-at="2016-12-27T17:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.expedia2@4f7d0008]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:48Z" finished-at="2016-12-27T17:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.expedia2 -->
+      <class name="selpractice.expedia">
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.expedia@5f341870]" name="f" duration-ms="13252" started-at="2016-12-27T17:24:35Z" finished-at="2016-12-27T17:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.expedia@5f341870]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:35Z" finished-at="2016-12-27T17:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.expedia@5f341870]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:49Z" finished-at="2016-12-27T17:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.expedia -->
+      <class name="selpractice.gmail">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.gmail@13deb50e]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2016-12-27T17:24:12Z" finished-at="2016-12-27T17:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.gmail@13deb50e]" name="f" duration-ms="11998" started-at="2016-12-27T17:24:12Z" finished-at="2016-12-27T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.gmail@13deb50e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:24Z" finished-at="2016-12-27T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.gmail -->
+      <class name="javapractice.gmail">
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.gmail@31a5c39e]" name="f" duration-ms="10918" started-at="2016-12-27T17:25:22Z" finished-at="2016-12-27T17:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.gmail@31a5c39e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:22Z" finished-at="2016-12-27T17:25:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.gmail@31a5c39e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:33Z" finished-at="2016-12-27T17:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.gmail -->
+      <class name="selpractice.gmail_new2">
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.gmail_new2@56ac3a89]" name="f" duration-ms="9405" started-at="2016-12-27T17:25:32Z" finished-at="2016-12-27T17:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.gmail_new2@56ac3a89]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:32Z" finished-at="2016-12-27T17:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.gmail_new2@56ac3a89]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:25:42Z" finished-at="2016-12-27T17:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.gmail_new2 -->
+      <class name="javapractice.applenew2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.applenew2@59ec2012]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:58Z" finished-at="2016-12-27T17:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.applenew2@59ec2012]" name="f" duration-ms="13679" started-at="2016-12-27T17:24:58Z" finished-at="2016-12-27T17:25:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.applenew2@59ec2012]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:12Z" finished-at="2016-12-27T17:25:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.applenew2 -->
+      <class name="selpractice.googleuuuu2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.googleuuuu2@3abbfa04]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:24Z" finished-at="2016-12-27T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.googleuuuu2@3abbfa04]" name="f" duration-ms="12870" started-at="2016-12-27T17:24:24Z" finished-at="2016-12-27T17:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.googleuuuu2@3abbfa04]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:37Z" finished-at="2016-12-27T17:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.googleuuuu2 -->
+      <class name="selpractice.gmail_new">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.gmail_new@6eebc39e]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2016-12-27T17:24:12Z" finished-at="2016-12-27T17:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.gmail_new@6eebc39e]" name="f" duration-ms="12117" started-at="2016-12-27T17:24:12Z" finished-at="2016-12-27T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.gmail_new@6eebc39e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:24Z" finished-at="2016-12-27T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.gmail_new -->
+      <class name="javapractice.gmail_new2">
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.gmail_new2@239963d8]" name="f" duration-ms="10627" started-at="2016-12-27T17:24:24Z" finished-at="2016-12-27T17:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.gmail_new2@239963d8]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:24Z" finished-at="2016-12-27T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.gmail_new2@239963d8]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:34Z" finished-at="2016-12-27T17:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.gmail_new2 -->
+      <class name="selpractice.expedia2235">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.expedia2235@402a079c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:49Z" finished-at="2016-12-27T17:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.expedia2235@402a079c]" name="f" duration-ms="11707" started-at="2016-12-27T17:24:49Z" finished-at="2016-12-27T17:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.expedia2235@402a079c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:00Z" finished-at="2016-12-27T17:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.expedia2235 -->
+      <class name="selpractice.expedia2234">
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.expedia2234@6500df86]" name="f" duration-ms="11109" started-at="2016-12-27T17:24:48Z" finished-at="2016-12-27T17:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.expedia2234@6500df86]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:48Z" finished-at="2016-12-27T17:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.expedia2234@6500df86]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:59Z" finished-at="2016-12-27T17:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.expedia2234 -->
+      <class name="selpractice.googleuuuu">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.googleuuuu@6fd02e5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:12Z" finished-at="2016-12-27T17:25:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.googleuuuu@6fd02e5]" name="f" duration-ms="9542" started-at="2016-12-27T17:25:12Z" finished-at="2016-12-27T17:25:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.googleuuuu@6fd02e5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:25:22Z" finished-at="2016-12-27T17:25:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.googleuuuu -->
+      <class name="javapractice.expedia2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.expedia2@589838eb]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:47Z" finished-at="2016-12-27T17:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.expedia2@589838eb]" name="f" duration-ms="11838" started-at="2016-12-27T17:24:47Z" finished-at="2016-12-27T17:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.expedia2@589838eb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:59Z" finished-at="2016-12-27T17:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.expedia2 -->
+      <class name="javapractice.google_link2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javapractice.google_link2@57fffcd7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:24Z" finished-at="2016-12-27T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:javapractice.google_link2@57fffcd7]" name="f" duration-ms="10834" started-at="2016-12-27T17:24:24Z" finished-at="2016-12-27T17:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javapractice.google_link2@57fffcd7]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:35Z" finished-at="2016-12-27T17:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javapractice.google_link2 -->
+      <class name="selpractice.google2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selpractice.google2@31ef45e3]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-27T17:24:24Z" finished-at="2016-12-27T17:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selpractice.google2@31ef45e3]" name="f" duration-ms="10539" started-at="2016-12-27T17:24:24Z" finished-at="2016-12-27T17:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selpractice.google2@31ef45e3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-27T17:24:35Z" finished-at="2016-12-27T17:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selpractice.google2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
